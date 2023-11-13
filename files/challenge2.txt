@@ -1,0 +1,6 @@
+Could you help me solve a web challenge?
+
+The following are the details of the challenge:-
+Challenge Name: Breaking-Cookies
+Challenge Description: C00kies are safe afaik ,Only admin will get the flag!
+Flag Format: inctfj{}
